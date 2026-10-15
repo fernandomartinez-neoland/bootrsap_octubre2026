@@ -1,3 +1,21 @@
-.navbar-brand{
-    color:aqua
+.navbar-brand {
+  color: aqua;
+}
+
+.slide-primary {
+  background-image: url("https://images.pexels.com/photos/39547478/pexels-photo-39547478.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.slide-secondary {
+  background-image: url("https://plus.unsplash.com/premium_photo-1701795330864-41f1454cceeb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.slide-thirth {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReOliFsuR-0Z_CkzFxcuJfPtzKVmaZX0oYRrV7AW9Fvw&s=10");
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
